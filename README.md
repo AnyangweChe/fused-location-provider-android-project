@@ -1,5 +1,7 @@
 # Saving GPS Location to Database from Android Fused Location Provider API. Android Project
 In this tutorial, i will show you how to get GPS location from your android device and save to a database. The project is divided into two parts. The mobile code and the server side code.
+
+
 ![full project image](https://miro.medium.com/max/1080/1*vv6xz-RhZA1mtNsqq0rhyg.png)
 
 # Creating the Android Project
