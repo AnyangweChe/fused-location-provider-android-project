@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Realtime Fused Location</string>
+    <string name="location_label">Realtime Location</string>
+    <string name="loading">Loading…</string>
+    <string name="latitude">Latitude</string>
+    <string name="longitude">Longitude</string>
+    <string name="novalues">0.0</string>
+    <string name="metagetGPStxt">Get GPS From Device</string>
+    <string name="realtimegetGPStxt">Real Time Location</string>
+    <string name="infotext">Get real time position from deveice and send to a server witnin a 30 seconds interval. Receive acknowledgement from server when position is received</string>
+</resources>
